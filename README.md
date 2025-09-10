@@ -48,7 +48,3 @@ go run main.go
 ```
 2007/01/19 あなたの産まれた日は Friday です
 ```
-
-## ライセンス
-
-MIT License - 詳しくは [LICENSE](LICENSE) ファイルを参照してください。
